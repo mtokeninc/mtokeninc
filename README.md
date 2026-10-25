@@ -3,7 +3,7 @@
 [![Project Status](https://img.shields.io/badge/status-proof_of_concept-brightgreen)
 
 
-MToken is a collections of frameworks and tools for data managements and model executions that demand both speed and capacity.  
+MToken is a collection of frameworks and tools for data managements and model executions that demand both speed and capacity.  
 
 
 <!--
