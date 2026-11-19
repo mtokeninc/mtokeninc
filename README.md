@@ -3,7 +3,18 @@
 [![Project Status](https://img.shields.io/badge/status-proof_of_concept-brightgreen)
 
 
-MToken is a collection of frameworks and tools for data managements and model executions that demand both speed and capacity.  
+MToken (mtokeninc) is a collection of frameworks and tools for data managements and model executions that demand both speed and capacity.  
+
+mtokeninc contains the following git repositories.
+
+- mtoken_embedded
+- mtokengui
+- mtoken_uni_dict_embedding
+- mtoken_wrt
+- mtoken_vrt
+- mtoken_hrt
+- mtoken_api
+
 
 
 <!--
